@@ -14,7 +14,7 @@ const Modal = ({ children, onClose, isVisible }: ModalProps) => {
   if (!isVisible) return null;
   return (
     <div
-      className="fixed z-10 inset-0 overflow-y-auto bg-black bg-opacity-25 backdrop-blur-sm flex justify-center items-center "
+      className="fixed z-10 inset-0 overflow-y-auto bg-[#161A23] bg-opacity-60 backdrop-blur-sm flex justify-center items-center "
       id="wrapper"
       onClick={handleClose}
     >
