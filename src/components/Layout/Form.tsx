@@ -60,10 +60,10 @@ const Form = ({ children }: any) => {
           <h1 className="font-primary text-[#161A23] font-semibold text-base ">
             Shorten link
           </h1>
-          <div className="relative lg:w-[605px] md:w-[565px] w-[310px]">
+          <div className="relative lg:w-[620px] md:w-[580px] w-[325px]">
             <input
               type="text"
-              className="lg:w-[570px] border border-[#D9D9D9] rounded-[4px] outline-none block md:w-[520px] w-[270px] h-[48px] text-[#5BDB8A] text-base font-primary font-normal px-6 "
+              className="lg:w-[585px] border border-[#D9D9D9] rounded-[4px] outline-none block md:w-[535px] w-[285px] h-[48px] text-[#5BDB8A] text-base font-primary font-normal px-6 "
               placeholder="https:// ala.n/1254"
               required
             />
