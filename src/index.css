@@ -1,22 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&display=swap");
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-.listStyle {
-  list-style: none;
-}
-
-.listStyle::before {
-  content: "";
-  display: inline-block;
-  margin-right: 10px;
-
-  /* Height of the list image*/
-  height: 8px;
-
-  /* Width of the list image*/
-  width: 9px;
-  background-image: url("../public/images/list.svg");
-}

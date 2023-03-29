@@ -1,4 +1,5 @@
 import { ReactNode } from "react";
+import "./Layout/Form";
 
 interface ModalProps {
   children: ReactNode;

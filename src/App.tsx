@@ -24,7 +24,7 @@ function App() {
       {/* all form collection. just pic one and place it where need to be used  */}
 
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send all traffic to{" "}
           <a
@@ -38,7 +38,7 @@ function App() {
 
       {/* link rotation  */}
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send 40% traffic to
           <a
@@ -48,7 +48,7 @@ function App() {
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send the rest to
           <a
@@ -63,7 +63,7 @@ function App() {
       {/* block boats  */}
 
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send all traffic to
           <a
@@ -73,7 +73,7 @@ function App() {
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Known bots will not be permitted to follow this link & bot traffic
           will not be recorded.
@@ -83,7 +83,7 @@ function App() {
       {/* link clocking  */}
 
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send all traffic to
           <a
@@ -93,7 +93,7 @@ function App() {
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           The link has clocking feature
           <a href="https://p/jjdcjhcbjewgffge" className="text-[#5BDB8A] ml-1">
@@ -104,7 +104,7 @@ function App() {
 
       {/* link encryption  */}
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send all traffic to
           <a
@@ -114,7 +114,7 @@ function App() {
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Link encryption is enabled :{" "}
           <span className="font-bold">ASDF12354</span>
@@ -123,7 +123,7 @@ function App() {
 
       {/* bot detection  */}
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send all traffic to
           <a
@@ -133,7 +133,7 @@ function App() {
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Bot detection is enabled for your link
         </li>
@@ -141,7 +141,7 @@ function App() {
 
       {/* all features  */}
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send 40% traffic to
           <a
@@ -151,7 +151,7 @@ function App() {
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Send the rest to
           <a
@@ -161,7 +161,7 @@ function App() {
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           The link has clocking feature
           <a href="https://p/jjdcjhcbjewgffge" className="text-[#5BDB8A] ml-1">
@@ -169,18 +169,18 @@ function App() {
           </a>{" "}
         </li>
 
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Link encryption is enabled :{" "}
           <span className="font-bold">ASDF12354</span>
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Known bots will not be permitted to follow this link & bot traffic
           will not be recorded.
         </li>
 
-        <li className="text-[#414141] font-primary font-normal text-base listStyle">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           Bot detection is enabled for your link
         </li>

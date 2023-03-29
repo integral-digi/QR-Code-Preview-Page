@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Modal from "../Modal";
+import "./Form.css";
 
 const Form = ({ children }: any) => {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -62,7 +63,7 @@ const Form = ({ children }: any) => {
           <div className="relative ">
             <input
               type="text"
-              className="lg:w-[550px] border border-[#D9D9D9] rounded-[4px] outline-none block md:w-[500px] w-full h-[48px] text-[#5BDB8A] text-base font-primary font-normal px-6 "
+              className="lg:w-[550px] border border-[#D9D9D9] rounded-[4px] outline-none block md:w-[500px] w-[250px] h-[48px] text-[#5BDB8A] text-base font-primary font-normal px-6 "
               placeholder="https:// ala.n/1254"
               required
             />
@@ -101,11 +102,11 @@ const Form = ({ children }: any) => {
               </div>
             </div>
           </div>
-          <div className="space-y-2 pt-[50px]">
+          <div className="space-y-2 pt-[50px] w-full">
             <h1 className="text-[#161A23] font-primary font-extrabold text-base ">
               Link action summary
             </h1>
-            <ul className="space-y-4">{children}</ul>
+            <ul className="space-y-4 w-full">{children}</ul>
           </div>
         </div>
         <div className="border border-[#E7E7E7] lg:w-[224px] lg:rotate-[90deg] lg:h-0   my-5 md:w-[508px] w-[282px]"></div>
