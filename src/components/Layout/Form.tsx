@@ -55,15 +55,15 @@ const Form = ({ children }: any) => {
       </div>
 
       {/* form body  */}
-      <div className="flex justify-between lg:items-center px-9 py-8 lg:flex-row flex-col-reverse items-start">
+      <div className="flex justify-between lg:items-center md:px-9 px-7 py-8 lg:flex-row flex-col-reverse items-start">
         <div className="space-y-2">
           <h1 className="font-primary text-[#161A23] font-semibold text-base ">
             Shorten link
           </h1>
-          <div className="relative lg:w-[595px] md:w-[545px] w-[290px]">
+          <div className="relative lg:w-[605px] md:w-[565px] w-[310px]">
             <input
               type="text"
-              className="lg:w-[550px] border border-[#D9D9D9] rounded-[4px] outline-none block md:w-[500px] w-[250px] h-[48px] text-[#5BDB8A] text-base font-primary font-normal px-6 "
+              className="lg:w-[570px] border border-[#D9D9D9] rounded-[4px] outline-none block md:w-[520px] w-[270px] h-[48px] text-[#5BDB8A] text-base font-primary font-normal px-6 "
               placeholder="https:// ala.n/1254"
               required
             />
