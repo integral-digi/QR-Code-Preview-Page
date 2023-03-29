@@ -60,7 +60,7 @@ const Form = ({ children }: any) => {
           <h1 className="font-primary text-[#161A23] font-semibold text-base ">
             Shorten link
           </h1>
-          <div className="relative ">
+          <div className="relative lg:w-[595px] md:w-[545px] w-[290px]">
             <input
               type="text"
               className="lg:w-[550px] border border-[#D9D9D9] rounded-[4px] outline-none block md:w-[500px] w-[250px] h-[48px] text-[#5BDB8A] text-base font-primary font-normal px-6 "

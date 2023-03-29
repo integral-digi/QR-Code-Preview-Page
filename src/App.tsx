@@ -29,7 +29,7 @@ function App() {
           Send all traffic to{" "}
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -43,7 +43,7 @@ function App() {
           Send 40% traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -53,7 +53,7 @@ function App() {
           Send the rest to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -68,7 +68,7 @@ function App() {
           Send all traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -88,7 +88,7 @@ function App() {
           Send all traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -96,7 +96,10 @@ function App() {
         <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           The link has clocking feature
-          <a href="https://p/jjdcjhcbjewgffge" className="text-[#5BDB8A] ml-1">
+          <a
+            href="https://p/jjdcjhcbjewgffge"
+            className="text-[#5BDB8A] ml-1 inline-block"
+          >
             https://p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
@@ -109,7 +112,7 @@ function App() {
           Send all traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -128,7 +131,7 @@ function App() {
           Send all traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -146,7 +149,7 @@ function App() {
           Send 40% traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -156,7 +159,7 @@ function App() {
           Send the rest to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1"
+            className="text-[#5BDB8A] ml-1 inline-block"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -164,7 +167,10 @@ function App() {
         <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
           {" "}
           The link has clocking feature
-          <a href="https://p/jjdcjhcbjewgffge" className="text-[#5BDB8A] ml-1">
+          <a
+            href="https://p/jjdcjhcbjewgffge"
+            className="text-[#5BDB8A] ml-1 inline-block"
+          >
             https://p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
