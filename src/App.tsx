@@ -24,12 +24,12 @@ function App() {
       {/* all form collection. just pic one and place it where need to be used  */}
 
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all	">
           {" "}
           Send all traffic to{" "}
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block  break-all	"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -38,22 +38,22 @@ function App() {
 
       {/* link rotation  */}
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-fullbreak-all	">
           {" "}
           Send 40% traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block  break-all	"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all	">
           {" "}
           Send the rest to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block  w-full  break-all	"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -63,12 +63,12 @@ function App() {
       {/* block boats  */}
 
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all	">
           {" "}
           Send all traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block  w-full  break-alll	"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -83,22 +83,22 @@ function App() {
       {/* link clocking  */}
 
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all	">
           {" "}
           Send all traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block  w-full  break-all	"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all">
           {" "}
           The link has clocking feature
           <a
             href="https://p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block"
+            className="text-[#5BDB8A] ml-1 inline-block w-full  break-all"
           >
             https://p/jjdcjhcbjewgffge
           </a>{" "}
@@ -107,12 +107,12 @@ function App() {
 
       {/* link encryption  */}
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all	">
           {" "}
           Send all traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block  w-full  break-all	"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -126,12 +126,12 @@ function App() {
 
       {/* bot detection  */}
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all	">
           {" "}
           Send all traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block  w-full  break-all	"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
@@ -144,49 +144,49 @@ function App() {
 
       {/* all features  */}
       <Form>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-all	">
           {" "}
           Send 40% traffic to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal		"
+            className="text-[#5BDB8A] ml-1 inline-block  break-all"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all	">
           {" "}
           Send the rest to
           <a
             href="https://www.instagram.com/p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block  break-all	"
           >
             https://www.instagram.com/p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-words whitespace-normal	">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full  break-all	">
           {" "}
           The link has clocking feature
           <a
             href="https://p/jjdcjhcbjewgffge"
-            className="text-[#5BDB8A] ml-1 inline-block  break-words whitespace-normal	"
+            className="text-[#5BDB8A] ml-1 inline-block break-all	"
           >
             https://p/jjdcjhcbjewgffge
           </a>{" "}
         </li>
 
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-all">
           {" "}
           Link encryption is enabled :{" "}
           <span className="font-bold">ASDF12354</span>
         </li>
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-all">
           {" "}
           Known bots will not be permitted to follow this link & bot traffic
           will not be recorded.
         </li>
 
-        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-words">
+        <li className="text-[#414141] font-primary font-normal text-base listStyle w-full break-all">
           {" "}
           Bot detection is enabled for your link
         </li>
